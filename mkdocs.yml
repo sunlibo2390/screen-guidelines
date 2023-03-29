@@ -1,6 +1,6 @@
 site_name: 论点归纳项目 标注指南
-repo_url: https://github.com/sunlibo2390/screen-guidelines
-repo_name: screen-guidelines
+repo_url: https://github.com/sunlibo2390/conclusion-guidelines
+repo_name: conclusion-guidelines
 edit_uri: blob/main/docs/
 nav:
   - index.md
